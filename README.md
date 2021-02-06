@@ -15,3 +15,5 @@ should appear afert ==== new 2 ====
 
 +++++++ news 4 from remote dev +++++++ 
 from remote dev
+
+------- new from local ------
