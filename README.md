@@ -12,3 +12,6 @@ will appeare after -- new -- ( from f#2 )
 
 ===== new 2 ====================================
 should appear afert ==== new 2 ====
+
++++++++ news 4 from remote dev +++++++ 
+from remote dev
