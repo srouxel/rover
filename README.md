@@ -13,6 +13,7 @@ will appeare after -- new -- ( from f#2 )
 ===== new 2 ====================================
 should appear afert ==== new 2 ====
 
+<<<<<<< HEAD
 +++++++ news 4 from remote dev +++++++ 
 from remote dev
 
@@ -22,3 +23,8 @@ again from local
 
 !!!!! try rebase again (dev ) !!!!!
 ++++++ again rebasing ++++ 
+=======
+++++++ again rebasing ++++ 
+
+++++++ again rebasing  2nd commit ++++ 
+>>>>>>> ++++++ again rebasing 2nd ++++
